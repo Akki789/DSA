@@ -1,4 +1,4 @@
-//Print Decreasing Number using recursion or Print numbers from N to 1 using recursion
+//Print Decreasing Number using recursion || Print numbers from N to 1 using recursion
 
 function printDecreasing(n){
     if(n===0){
