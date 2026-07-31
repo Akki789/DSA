@@ -1,4 +1,4 @@
-//Print Increasing Number using recursion
+//Print Increasing Number using recursion or Print numbers from 1 to N using recursion
 
 function increasing(n) {
   if(n==0){
