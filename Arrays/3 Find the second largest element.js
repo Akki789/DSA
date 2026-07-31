@@ -1,6 +1,5 @@
 //Find the second largest element || Traversal
 
-
 function SecondLargestElement(arr){
     let largest = -Infinity;
     let secondLargest = -Infinity;
